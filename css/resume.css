@@ -1,0 +1,70 @@
+.funbody {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightgray;
+    padding-left: 100px;
+}
+
+.funnav {
+    padding-top: 10px;
+    text-align: left;
+    margin-left: 0px;
+}
+
+.funul {
+    list-style: none;
+}
+
+.funnav li {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: normal;
+    margin-right: 20px;  
+}
+
+.funnav a {
+    background: #215f8f;
+    color: #fff;
+    background: linear-gradient(#3e8cc8,#143c5a);
+    padding: 12px 20px;
+    border-radius: 10px;
+}
+
+.funa:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.funa:visited {
+    color: rgb(129, 187, 192);
+}
+
+.aboutimagewrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    gap: 20px;
+    padding: 20px;
+    height: 250px;
+   
+}
+
+.funbody p {
+    width: 800px;
+}
+
+.funtitle h1 {
+    color: black;
+    font-weight: bold;
+}
+
+.funbody h2 {
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+.funtableau p {
+    font-weight: bolder;
+    width: 1000px;
+}
